@@ -6,7 +6,7 @@
 
 * **Project Name:** Name of your project (e.g. DuoSwap Module)
 * **Team Name:** Legal name of your team (e.g. Duo)
-* **Payment Address:** BTC or Ethereum (USDT/DAI) payment address. We don't accept payments for the program in other currencies at this stage. If this is an Ethereum address, please specify USDT or DAI. (e.g. 0x8920... (DAI))
+* **Payment Address:** BTC, Ethereum (USDT/DAI) or Karura (kUSD) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
 * **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1, 2 or 3 
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
@@ -103,7 +103,7 @@ If you've already started implementing your project or it is part of a larger re
 
 This section should break the development roadmap down into milestones and deliverables. Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
 
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to Substrate, Kusama or Polkadot. We _recommend_ that the scope of the work can fit within a three-month period and that teams structure their roadmap as 1 milestone ≈ 1 month.
+Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to Substrate, Kusama or Polkadot. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
 
 For each milestone,
 

@@ -172,7 +172,7 @@
 | [Ethworks](https://ethworks.io/) | Polkadot.{js} Desktop Application | [GitHub](https://github.com/EthWorks/) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Usetech](http://usetech.com/blockchain.html) | NFT Tracking Module | [GitHub](https://github.com/usetech-llc/nft_parachain) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Chevdor](https://www.chevdor.com/) | Polkabot | [GitHub](https://github.com/chevdor) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
-| [Aleksandr Krupenkin](https://github.com/akru) | Haskell Web3 library | [GitHub](https://github.com/airalab/hs-web3) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Aleksandr Krupenkin](https://github.com/akru) | Haskell Web3 library | [GitHub](https://github.com/airalab/hs-web3) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [WEB3SCAN](https://www.web3scan.com/) | Polkascan Signer Interfaces | [GitHub](https://github.com/polkascan) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Fortmatic](https://fortmatic.com/) | SDK + Burner Wallet to implement Web 2.0 login for dapps | [GitHub](https://github.com/fortmatic) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [PureStake](https://www.purestake.com/) | Web3 Compatible API | [GitHub](https://github.com/PureStake) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
@@ -209,9 +209,9 @@
 | [enfipy](https://github.com/enfipy) | Creator: Mobile Game Framework for Substrate | [GitHub](https://github.com/creator-rs) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Halva](https://github.com/halva-suite) | Halva: Bootstrapping and Scaffolding | [GitHub](https://github.com/halva-suite) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Sunshine Systems](https://sunshine.foundation) | Sunshine Keybase | [GitHub](https://github.com/sunshine-protocol) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
-| [Subscan](subscan.io) | Multi-signature Management Tool | [GitHub](https://github.com/itering) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Subscan](subscan.io) | Multi-signature Management Tool | [GitHub](https://github.com/itering) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Evercity](https://evercity.io/) | Smart Sustainable Bond Protocol (SSB-P) | [GitHub](https://github.com/EvercityEcosystem/Smart-Sustainable-Bond) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
-| [Permiurly](http://permiurly.in) | Polkassembly | [GitHub](https://github.com/premiurly/polkassembly) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Permiurly](http://permiurly.in) | Polkassembly | [GitHub](https://github.com/premiurly/polkassembly) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Zeropool](https://zeropool.network/) | Private transactions on Polkadot | [GitHub](https://github.com/zeropoolnetwork) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Polkadex](https://github.com/Polkadex-Substrate) | A decentralized, peer-peer, cryptocurrency exchange for DeFi ecosystem in Substrate | [GitHub](https://github.com/Polkadex-Substrate/Polkadex) | <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Fractapp](https://fractapp.com) | Messenger with crypto wallet | [GitHub](https://github.com/fractapp) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
@@ -271,7 +271,7 @@
 | [BLDG BLOX](https://bldg.app/) | ESG (Environmental, Social, and Corporate Governance) ratings dashboard | [GitHub](https://github.com/BLDG-BLOX/) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [DEIPWORLD](https://deip.world/) | IP Management/Governance Module | [GitHub](https://github.com/DEIPworld) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Deeper.Network](https://deeper.network/) | Micropayments pallet | [GitHub](https://github.com/e2chain-dev/deeper-chain) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [Evanesco](https://evanesco.org/) | Private network protocol | [GitHub](https://github.com/Evanesco-Labs) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Evanesco](https://evanesco.org/) | Private network protocol | [GitHub](https://github.com/Evanesco-Labs) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [HugoByte](https://hugobyte.com/) | Project Aurras: Event Manager | [GitHub](https://github.com/HugoByte) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Bounce Protocol](https://bounce.finance/) | Decentralized Auction Protocol | [GitHub](https://github.com/bouncefinance/bounce-network) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 
@@ -288,7 +288,7 @@
 | [Sunrise Protocol](https://sunriseprotocol.com) | Sunrise DEX | [GitHub](https://github.com/sunriseprotocol) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Cobo](https://cobo.com/) | Cobo Vault Phase 2 | [GitHub](https://github.com/CoboVault) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [OxyDev](https://oxydev.ir) | SubsCrypt: Managing subscriptions | [GitHub](https://github.com/oxydev) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [DNFT-Team](https://github.com/DNFT-Team) | Data framework between personal data and AI models | [GitHub](https://github.com/DNFT-Team) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [DNFT-Team](https://github.com/DNFT-Team) | Data framework between personal data and AI models | [GitHub](https://github.com/DNFT-Team) | <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [UMC Labs](https://umc.network) | Secured token subscription | [GitHub](https://github.com/umc-network) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Perpetual Altruism Ltd](https://cryptograph.co/) | IP-Rights compliant NFT bridge protocol | [GitHub](https://github.com/Perpetual-Altruism-Ltd) |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Clover](https://clover.finance/) | Easy-to-use blockchain infrastructure | [GitHub](https://github.com/clover-network/) | <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
@@ -308,7 +308,7 @@
 | [DOT Mog](https://dotmog.com/) | Substrate .NET API  | [GitHub](https://github.com/dotmog/SubstrateNetApi) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [NewOmega](https://github.com/WiktorStarczewski/newomega.trinity ) | A blockchain game that cannot be shut down | [GitHub](https://github.com/WiktorStarczewski/newomega.trinity ) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Bright Inventions](https://brightinventions.pl/) | Treasury Web application| [GitHub](https://github.com/bright/bright-tresury) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [Standard protocol](https://github.com/digitalnativeinc/standard-substrate) | A collateralized algorithmic stablecoin protocol for synthetic assets | [GitHub](https://github.com/digitalnativeinc/standard-substrate) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Standard protocol](https://github.com/digitalnativeinc/standard-substrate) | A collateralized algorithmic stablecoin protocol for synthetic assets | [GitHub](https://github.com/digitalnativeinc/standard-substrate) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Skye Kiwi](https://skye.kiwi/) | SkyePass: A decentralized, open source password manager | [GitHub](https://github.com/skyekiwi) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [RidOne Technologies](https://github.com/RidOne-technologies) | Polkadot UI Web + Angular Identicon | [GitHub](https://github.com/RidOne-technologies) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Zeropool](https://zeropool.network/) | Private transactions on Polkadot Phase 2 | [GitHub](https://github.com/zeropoolnetwork) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
@@ -320,7 +320,7 @@
 | [Lumena](https://www.lumena.tech) | A blockchain based EV charging platform | [GitHub](https://github.com/Delmonicos/charger-node) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [DEGO](https://dego.finance/) | Treasureland: An NFT publishing and trading platform | [GitHub](https://github.com/dego-labs) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [AIKON](https://aikon.com/) | ChainJS integration | [GitHub](https://github.com/TeamAikon/chain-js) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [Nathan Schwermann](https://github.com/nschwermann) |  PolkaJ Android Support | [GitHub](https://github.com/nschwermann) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Nathan Schwermann](https://github.com/nschwermann) |  PolkaJ Android Support | [GitHub](https://github.com/nschwermann) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Acala](https://acala.network/) | xtokens - XCM Implementation for Fungible Assets | [GitHub](https://github.com/open-web3-stack/open-runtime-module-library/tree/master/xtokens) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [NUTS Finance](https://nuts.finance/) | Stable Assets | [GitHub](https://github.com/nutsfinance) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [MVP Workshop](https://mvpworkshop.co/) | pallet-maci (Minimal Anti Collusion Infrastructure) | [GitHub](https://github.com/MVPWorkshop) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
@@ -335,12 +335,12 @@
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
 | [GamePower](https://gamepower.network) | NFT Collectibles Wallet | [GitHub](https://github.com/GamePowerNetwork) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [Subspace Labs](https://www.subspace.network/) | Proof-of-Capacity Consensus for Substrate | [GitHub](https://github.com/subspace) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Subspace Labs](https://www.subspace.network/) | Proof-of-Capacity Consensus for Substrate | [GitHub](https://github.com/subspace) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [ChainSafe](https://chainsafe.io/) | Go implementation of Cumulus | [GitHub](https://github.com/ChainSafeSystems) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Polkadotters](https://polkadotters.medium.com/) | Subauction| [GitHub](https://github.com/polkadotters/SubAuction) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Phala Network](https://phala.network/) | Open Node Framework| [GitHub](https://github.com/Tenet-X) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Ruby Protocol](http://rubyprotocol.com/) | Cryptographic Infrastructure for Data Monetization | [GitHub](https://github.com/Ruby-Protocol) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [Find Signal Studio PTE. LTD.](https://yieldscan.app/) | YieldScan Phase 2 | [GitHub](https://github.com/yieldscan) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Find Signal Studio PTE. LTD.](https://yieldscan.app/) | YieldScan Phase 2 | [GitHub](https://github.com/yieldscan) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [PolkaMusic](https://polkamusic.io/) | Operating decentralized music businesses on blockchain | [GitHub](https://github.com/polkamusic/PolkaMusic) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [element36](https://element36.io) | FIAT on-off-ramp | [GitHub](https://github.com/element36-io) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Zondax](https://zondax.ch/) | Ledger Asset App | [GitHub](https://github.com/Zondax) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
@@ -354,32 +354,38 @@
 | [HypeLabs Inc.](https://hypelabs.io) | UpLink - Decentralized and infrastructure-free approach to peer-to-peer connectivity | [GitHub](https://github.com/Hype-Labs) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | Jackson Harris III | Staking Rewards Viewer | [GitHub](https://github.com/jackson-harris-iii/staking-rewards-viewer) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Klevoya](https://klevoya.com/) | WASM Smart Contract Fuzzer | [GitHub](https://github.com/klevoya/) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [Perun Network](https://perun.network/) | Perun Channels | [GitHub](https://github.com/perun-network/) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [NewOmega](https://github.com/WiktorStarczewski/newomega.trinity ) | A blockchain game that cannot be shut down (Milestone 3 and 4) | [GitHub](https://github.com/WiktorStarczewski/newomega.trinity ) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Perun Network](https://perun.network/) | Perun Channels | [GitHub](https://github.com/perun-network/) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
+| [NewOmega](https://github.com/WiktorStarczewski/newomega.trinity ) | A blockchain game that cannot be shut down (Milestone 3 and 4) | [GitHub](https://github.com/WiktorStarczewski/newomega.trinity ) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Webb Tech](https://www.webb.tools/) | Webb Mixer Extended | [GitHub](https://github.com/webb-tools) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [Jeton Network](http://www.jeton.network/) | UnitySDK for Substrate | [GitHub](https://github.com/JetonNetwork) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Jeton Network](http://www.jeton.network/) | UnitySDK for Substrate | [GitHub](https://github.com/JetonNetwork) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Canyon Labs](https://canyon-network.io) | Permanent decentralized storage | [GitHub](https://github.com/canyon-network) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [ZeroDAO Network](https://www.0p0.org/) | Decentralised reputation systems and social networks | [GitHub](https://github.com/ZeroDAO) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Stake Technologies](https://stake.co.jp/) | ZK Plonk Pallet | [GitHub](https://github.com/PlasmNetwork) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [CryptoLab](https://www.cryptolab.network) | Staking Reward Collector | [GitHub](https://github.com/cryptolab-network) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
-| [Yatima Inc](https://github.com/yatima-inc/yatima) | Lambda-VM and programming language for Substrate | [GitHub](https://github.com/yatima-inc/yatima) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Yatima Inc](https://github.com/yatima-inc/yatima) | Lambda-VM and programming language for Substrate | [GitHub](https://github.com/yatima-inc/yatima) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 
 ## :surfing_woman: Wave 11 - Third Quarter 2021
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
 | [Pawn](https://github.com/pawnz0) | NuLink | [GitHub](https://github.com/pawnz0/NuLink) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [Cyril Carlier](https://github.com/CrommVardek) | Polk-Auction Website | [GitHub](https://github.com/CrommVardek) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Cyril Carlier](https://github.com/CrommVardek) | Polk-Auction Website | [GitHub](https://github.com/CrommVardek) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Uddug](https://uddug.com/) | JuniDB - Peer-to-Peer Databases | [GitHub](http://github.com/uddugteam/) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [Canyon Labs](https://canyon-network.io) | Permanent decentralized storage Phase 2 | [GitHub](https://github.com/canyon-network) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Canyon Labs](https://canyon-network.io) | Permanent decentralized storage Phase 2 | [GitHub](https://github.com/canyon-network) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Skynet Labs](https://siasky.net/) | Pallet for Decentralized Off-Chain Storage on Skynet | [GitHub](https://gitlab.com/SkynetLabs) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Uniwrap/1001 Group](https://uniwrap.io/) | Project 1001 | [GitHub](https://github.com/uniwrap-protocol) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [YibanChen](https://yibanchen.com) | Notes DApp & Site-Pallet | [GitHub](https://github.com/YibanChen/) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [YibanChen](https://yibanchen.com) | Notes DApp & Site-Pallet | [GitHub](https://github.com/YibanChen/) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [SuperColony](https://github.com/Supercolony-net) | OpenBrush - Secure smart-contract development on ink! | [GitHub](https://github.com/Supercolony-net) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Banksy Finance](http://www.banksy.finance/) | NFT Pool-Based Lending Hub | [GitHub](https://github.com/Banksy-Finance) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [SubDAO Labs](https://www.subdao.network/) | PolkaSign - Web3.0 app for electronic agreements | [GitHub](https://github.com/subdao-network) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Valibre](https://valibre.org) | People Local Interactions Protocol (PLIP) | [GitHub](https://github.com/valibre-org/) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Reaudito](https://shivarthu.reaudito.com/#/) | Shivarthu: A blockchain-based decentralized governance system | [GitHub](https://github.com/amiyatulu/shivarthu) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
-| Uniscan | NFT Explorer | [GitHub](https://github.com/wuminzhe) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| Uniscan | NFT Explorer | [GitHub](https://github.com/wuminzhe) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [LimeChain](https://limechain.tech) | Subsembly - Support for GRANDPA | [GitHub](https://github.com/LimeChain) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [OpenSquare](https://www.opensquare.network) | Off-chain voting platform | [GitHub](https://github.com/opensquare-network/) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Health Hero](https://www.gohealthhero.com/) | NFT Product Analytics Suite |  | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Tesseract](https://tesseract.one/) | Mobile dApps/Wallet Connection | [GitHub](https://github.com/tesseract-one) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Wow Labz](http://www.wowlabz.com) | Dot Marketplace | [GitHub](https://github.com/WowLabz) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [InvArchitects](https://www.invarch.io/) | InvArch - IP Infrastructure for Substrate | [GitHub](https://github.com/InvArch) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [CheersLand Labs](https://cheersland.org/) | Multi-game Platform for Polkadot & Kusama | [GitHub](https://github.com/cheersland) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [UNI-ARTS](https://app.uniarts.network/) | Ruby Substate Client | [GitHub](https://github.com/uni-arts-chain/sr25519) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
